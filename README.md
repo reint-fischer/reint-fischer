@@ -3,7 +3,7 @@
 - 👀 I’m interested in Climate Physics, Sports Analytics and Data Visualization
 - 🌱 I’m currently learning julialang (and always more python)
 - 💞️ I’m looking to collaborate on Open Science projects
-- 📫 You can reach me @ rfische1@umd.edu or on Twitter @FischerReint
+- 📫 You can reach me @ rfische1@umd.edu or on Twitter [@FischerReint](https://twitter.com/FischerReint)
 
 <!---
 reint-fischer/reint-fischer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
